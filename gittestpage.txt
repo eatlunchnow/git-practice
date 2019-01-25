@@ -4,6 +4,7 @@
 
 <body>
 <h1>Git Testing Page</h1>
+<h2>Add another line</h2>
 </body>
 </head>
 </html>
